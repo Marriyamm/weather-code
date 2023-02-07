@@ -1,0 +1,46 @@
+body {
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 150px 100px;
+  padding: 90px;
+}
+.containerr {
+  margin-left: 255px;
+  top: 5px;
+}
+h1 {
+  margin-left: 120px;
+  margin-top: 25px;
+}
+.sun {
+  font-size: 100px;
+  margin-left: 30px;
+}
+.temp {
+  position: relative;
+  top: -50px;
+  left: 515px;
+}
+.temprature {
+  position: relative;
+  top: -25px;
+  left: 25px;
+}
+.container {
+  margin-left: 150px;
+}
+.col-5 {
+  border: 1px solid rgb(201, 201, 201);
+  border-radius: 4px;
+  padding: 15px;
+  margin-bottom: 5px;
+}
+.col-3 {
+  border: 1px solid rgb(201, 201, 201);
+  border-radius: 4px;
+  padding: 15px;
+  margin-right: 40px;
+}
+h2 {
+  text-align: center;
+}
